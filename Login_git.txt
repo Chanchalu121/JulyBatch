@@ -1,2 +1,11 @@
 <H1> Login system </H1>
 <H3> Git commands </H3>
+
+GIT & GITHUB:
+--------------------------------------
+git init
+git add .
+git commit -m "Comments added"
+git branch -M main
+git remote add origin path .......
+
